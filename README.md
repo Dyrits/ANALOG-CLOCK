@@ -18,7 +18,7 @@ A simple analog clock made with HTML, CSS and JavaScript.
 - [Contact](#contact)
 
 ## Related content
-[[Linkedin Learning](https://www.linkedin.com/learning/) - [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training)]  
+[[LinkedIn Learning](https://www.linkedin.com/learning/) - [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training)]  
 ***The specific content related to the analog clock seems to not be available anymore on LinkedIn Learning.***
 
 ## Technologies and tools
