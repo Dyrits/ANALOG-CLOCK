@@ -4,7 +4,6 @@ A simple analog clock made with HTML, CSS and JavaScript.
 
 ## Table of contents
 - [Related content](#related-content)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
 - [Installation](#installation)
 - [Demonstration](#demonstration)
